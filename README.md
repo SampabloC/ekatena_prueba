@@ -1,24 +1,17 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Para ejecutar este programa es necesario los siguientes pasos:
 
-Things you may want to cover:
 
-* Ruby version
+* Tras clonar el repositorio se tendrá que hacer uso de `bundle install`
+* Enseguida se deberá crear la base de datos con `rails db:create`.
+* Para tener la tabla de Juicios dentro de la BD se usa `rails db:create`
+* Y para poner a correr el servidor `rails s`
 
-* System dependencies
+## Pantalla de Bloqueo por parte del sitio del poder judicial
+![imagen](https://user-images.githubusercontent.com/38772008/147045576-0a2a4579-4ffc-478b-b274-470377970b08.png)
 
-* Configuration
 
-* Database creation
 
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+*Versión de Rails 6.1
+*Versión de Ruby 3.0.1
