@@ -1,0 +1,19 @@
+// Place all the styles related to the main controller here.
+// They will automatically be included in application.css.
+// You can use Sass (SCSS) here: https://sass-lang.com/
+// body {
+//   display: flex;
+// }
+
+.title {
+  text-align: center;
+}
+
+.login {
+  text-align: center;
+  input {
+    display: flex;
+    flex-direction: column;
+    margin:auto;
+  }
+}

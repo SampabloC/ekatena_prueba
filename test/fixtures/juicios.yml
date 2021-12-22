@@ -1,0 +1,17 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  actor: MyString
+  demandando: MyString
+  expediente: MyString
+  notificaciones: MyString
+  resumen: MyString
+  juzgado: MyString
+
+two:
+  actor: MyString
+  demandando: MyString
+  expediente: MyString
+  notificaciones: MyString
+  resumen: MyString
+  juzgado: MyString
